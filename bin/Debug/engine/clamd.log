@@ -137,3 +137,416 @@ SWF support enabled.
 HTML support enabled.
 Self checking every 600 seconds.
 --- Stopped at Tue Nov 03 12:24:15 2015
++++ Started at Wed Aug 19 16:12:32 2020
+clamd daemon 0.98.6 (OS: win32, ARCH: i386, CPU: i386)
+Log file size limited to 1048576 bytes.
+Reading databases from C:\Netsky Antivirus\bin\Debug\engine\db
+Not loading PUA signatures.
+Bytecode: Security mode set to "TrustSigned".
+Loaded 47 signatures.
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+Limits: Global size limit set to 104857600 bytes.
+Limits: File size limit set to 26214400 bytes.
+Limits: Recursion level limit set to 16.
+Limits: Files limit set to 10000.
+Limits: MaxEmbeddedPE limit set to 10485760 bytes.
+Limits: MaxHTMLNormalize limit set to 10485760 bytes.
+Limits: MaxHTMLNoTags limit set to 2097152 bytes.
+Limits: MaxScriptNormalize limit set to 5242880 bytes.
+Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Limits: MaxPartitions limit set to 50.
+Limits: MaxIconsPE limit set to 100.
+Archive support enabled.
+Algorithmic detection enabled.
+Portable Executable support enabled.
+ELF support enabled.
+Mail files support enabled.
+OLE2 support enabled.
+PDF support enabled.
+SWF support enabled.
+HTML support enabled.
+Self checking every 600 seconds.
+--- Stopped at Wed Aug 19 16:13:04 2020
++++ Started at Wed Aug 19 17:38:45 2020
+clamd daemon 0.98.6 (OS: win32, ARCH: i386, CPU: i386)
+Log file size limited to 1048576 bytes.
+Reading databases from C:\Netsky Antivirus\bin\Debug\engine\db
+Not loading PUA signatures.
+Bytecode: Security mode set to "TrustSigned".
+Loaded 47 signatures.
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+Limits: Global size limit set to 104857600 bytes.
+Limits: File size limit set to 26214400 bytes.
+Limits: Recursion level limit set to 16.
+Limits: Files limit set to 10000.
+Limits: MaxEmbeddedPE limit set to 10485760 bytes.
+Limits: MaxHTMLNormalize limit set to 10485760 bytes.
+Limits: MaxHTMLNoTags limit set to 2097152 bytes.
+Limits: MaxScriptNormalize limit set to 5242880 bytes.
+Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Limits: MaxPartitions limit set to 50.
+Limits: MaxIconsPE limit set to 100.
+Archive support enabled.
+Algorithmic detection enabled.
+Portable Executable support enabled.
+ELF support enabled.
+Mail files support enabled.
+OLE2 support enabled.
+PDF support enabled.
+SWF support enabled.
+HTML support enabled.
+Self checking every 600 seconds.
+No stats for Database check - forcing reload
+Reading databases from C:\Netsky Antivirus\bin\Debug\engine\db
+Database correctly reloaded (8386611 signatures)
+WARNING: Error condition on fd 1704
++++ Started at Wed Aug 19 20:09:04 2020
+clamd daemon 0.98.6 (OS: win32, ARCH: i386, CPU: i386)
+Log file size limited to 1048576 bytes.
+Reading databases from C:\NetSky Antivirus\bin\Debug\engine\db
+Not loading PUA signatures.
+Bytecode: Security mode set to "TrustSigned".
+Loaded 8386611 signatures.
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+Limits: Global size limit set to 104857600 bytes.
+Limits: File size limit set to 26214400 bytes.
+Limits: Recursion level limit set to 16.
+Limits: Files limit set to 10000.
+Limits: MaxEmbeddedPE limit set to 10485760 bytes.
+Limits: MaxHTMLNormalize limit set to 10485760 bytes.
+Limits: MaxHTMLNoTags limit set to 2097152 bytes.
+Limits: MaxScriptNormalize limit set to 5242880 bytes.
+Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Limits: MaxPartitions limit set to 50.
+Limits: MaxIconsPE limit set to 100.
+Archive support enabled.
+Algorithmic detection enabled.
+Portable Executable support enabled.
+ELF support enabled.
+Mail files support enabled.
+OLE2 support enabled.
+PDF support enabled.
+SWF support enabled.
+HTML support enabled.
+Self checking every 600 seconds.
+WARNING: lstat() failed on: \\?\C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200819131810_da5decdef42f4687b54b4ba55db1ac8c.trn
+No stats for Database check - forcing reload
+Reading databases from C:\NetSky Antivirus\bin\Debug\engine\db
+Database correctly reloaded (8386611 signatures)
+WARNING: Error condition on fd 1764
+WARNING: lstat() failed on: \\?\C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200819133532_eb437dd9caea4cc9b990289dab0f2cc3.trn
+SelfCheck: Database status OK.
+SelfCheck: Database status OK.
++++ Started at Thu Aug 20 08:29:48 2020
+clamd daemon 0.98.6 (OS: win32, ARCH: i386, CPU: i386)
+Log file size limited to 1048576 bytes.
+Reading databases from C:\NetSky Antivirus\bin\Debug\engine\db
+Not loading PUA signatures.
+Bytecode: Security mode set to "TrustSigned".
+Loaded 8386611 signatures.
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+Limits: Global size limit set to 104857600 bytes.
+Limits: File size limit set to 26214400 bytes.
+Limits: Recursion level limit set to 16.
+Limits: Files limit set to 10000.
+Limits: MaxEmbeddedPE limit set to 10485760 bytes.
+Limits: MaxHTMLNormalize limit set to 10485760 bytes.
+Limits: MaxHTMLNoTags limit set to 2097152 bytes.
+Limits: MaxScriptNormalize limit set to 5242880 bytes.
+Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Limits: MaxPartitions limit set to 50.
+Limits: MaxIconsPE limit set to 100.
+Archive support enabled.
+Algorithmic detection enabled.
+Portable Executable support enabled.
+ELF support enabled.
+Mail files support enabled.
+OLE2 support enabled.
+PDF support enabled.
+SWF support enabled.
+HTML support enabled.
+Self checking every 600 seconds.
+C:\Users\PC\AppData\Local\Temp\mxouvimx.gl3: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Temp\2bioziaj.z4n: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\ProgramData\IObit\Driver Booster\License\ZLB6D5E.tmp
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200820013451_1d0583fdb3204304ab78d701bc6d945b.tmp: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200820013452_e71dbbfb589540ce8014574ea53acd2d.tmp: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelf144292e-e3b2-4011-ac90-20e5c03fbce5\20200820013452_5682b65cbd794b6baf102f1c8bfed29a.tmp: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200820013453_db46689c5df346dcafbdf5f1b63d3b56.tmp
+C:\Program Files\Common Files\AVAST Software\Icarus\avast-tu\temp\asw-0c1c3ac7-e876-41ca-9a05-99e148e8838c\common1\icarus_product.dll: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200820013500_5b5063405fb84b3689724efa4a03d8f9.tmp: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelf144292e-e3b2-4011-ac90-20e5c03fbce5\20200820013502_1c44d34555f74a4b8fefb1ffa801d5e6.tmp
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelf144292e-e3b2-4011-ac90-20e5c03fbce5\20200820013503_69e213e32275431f84ca8d41c273877e.tmp: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200820013503_67d92a31ecd04854848cb149b0b3f434.tmp: Can't open file or directory ERROR
+C:\Program Files\Common Files\AVAST Software\Icarus\avast-tu\temp\asw-0c1c3ac7-e876-41ca-9a05-99e148e8838c\common1\bug_report.exe: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200820013600_ea67919a04f84caaad874c72845a5465.tmp
+C:\Users\PC\AppData\Local\Temp\lj34lq3q.ftb: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\Users\PC\AppData\Local\Temp\4yjnui43.ehm
+C:\Users\PC\AppData\Local\Temp\hhuw3eke.qwj: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Temp\o4db2vey.iuo: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Temp\2ndoxvpo.o2t: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Temp\1he1waoq.b1u: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Temp\hodw3owa.lyq: Can't open file or directory ERROR
+C:\Windows\SoftwareDistribution\Download\024101b87d5792a8da5f83ab8ff3f2b5\windows10.0-kb4569745-x64-ndp48.cab: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\ProgramData\USOPrivate\UpdateStore\store.db-journal
+WARNING: lstat() failed on: \\?\C:\ProgramData\USOPrivate\UpdateStore\store.db-journal
+WARNING: lstat() failed on: \\?\C:\ProgramData\USOPrivate\UpdateStore\store.db-journal
+C:\Users\PC\AppData\Local\Temp\oyareuuw.0rh: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\ProgramData\USOPrivate\UpdateStore\store.db-journal
+WARNING: lstat() failed on: \\?\C:\Users\PC\AppData\Local\Temp\hxsvlaan.acw
+WARNING: lstat() failed on: \\?\C:\ProgramData\USOPrivate\UpdateStore\store.db-journal
+C:\Users\PC\AppData\Local\Temp\4m1a1jqu.lma: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Temp\o3dgabi0.xnb: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Temp\kuafmfho.vhv: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200816073126_b55a25e0dcfc403f88ea44e568ba7cc4.trn: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200820014229_c202bda0046f4de8bc0942d9ee83f957.tmp: Can't open file or directory ERROR
+C:\Program Files\CUAssistant\Logs\LcuAssistant.010.etl: Can't open file or directory ERROR
+C:\Program Files\CUAssistant\Logs\LcuAssistant.009.etl: Can't open file or directory ERROR
+C:\Program Files\CUAssistant\Logs\LcuAssistant.008.etl: Can't open file or directory ERROR
+C:\Program Files\CUAssistant\Logs\LcuAssistant.007.etl: Can't open file or directory ERROR
+C:\Program Files\CUAssistant\Logs\LcuAssistant.006.etl: Can't open file or directory ERROR
+No stats for Database check - forcing reload
+Reading databases from C:\NetSky Antivirus\bin\Debug\engine\db
++++ Started at Thu Aug 20 09:47:59 2020
+clamd daemon 0.98.6 (OS: win32, ARCH: i386, CPU: i386)
+Log file size limited to 1048576 bytes.
+Reading databases from C:\Netsky Antivirus\bin\Debug\engine\db
+Not loading PUA signatures.
+Bytecode: Security mode set to "TrustSigned".
+ERROR: Malformed database
++++ Started at Thu Aug 20 09:56:13 2020
+clamd daemon 0.98.6 (OS: win32, ARCH: i386, CPU: i386)
+Log file size limited to 1048576 bytes.
+Reading databases from C:\Netsky Antivirus\bin\Debug\engine\db
+Not loading PUA signatures.
+Bytecode: Security mode set to "TrustSigned".
+Loaded 8386611 signatures.
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+Limits: Global size limit set to 104857600 bytes.
+Limits: File size limit set to 26214400 bytes.
+Limits: Recursion level limit set to 16.
+Limits: Files limit set to 10000.
+Limits: MaxEmbeddedPE limit set to 10485760 bytes.
+Limits: MaxHTMLNormalize limit set to 10485760 bytes.
+Limits: MaxHTMLNoTags limit set to 2097152 bytes.
+Limits: MaxScriptNormalize limit set to 5242880 bytes.
+Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Limits: MaxPartitions limit set to 50.
+Limits: MaxIconsPE limit set to 100.
+Archive support enabled.
+Algorithmic detection enabled.
+Portable Executable support enabled.
+ELF support enabled.
+Mail files support enabled.
+OLE2 support enabled.
+PDF support enabled.
+SWF support enabled.
+HTML support enabled.
+Self checking every 600 seconds.
+No stats for Database check - forcing reload
+Reading databases from C:\Netsky Antivirus\bin\Debug\engine\db
+Database correctly reloaded (8386611 signatures)
+SelfCheck: Database status OK.
+SelfCheck: Database status OK.
+WARNING: lstat() failed on: \\?\C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200820040331_f5919fe840184668a3eef857a14c5e9a.trn
+SelfCheck: Database status OK.
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200815022942_71c86c75a03a45ef86b7f0d28586409f.trn: Can't open file or directory ERROR
++++ Started at Thu Aug 20 11:09:32 2020
+clamd daemon 0.98.6 (OS: win32, ARCH: i386, CPU: i386)
+Log file size limited to 1048576 bytes.
+Reading databases from C:\Netsky Antivirus\bin\Debug\engine\db
+Not loading PUA signatures.
+Bytecode: Security mode set to "TrustSigned".
+Loaded 8386611 signatures.
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+Limits: Global size limit set to 104857600 bytes.
+Limits: File size limit set to 26214400 bytes.
+Limits: Recursion level limit set to 16.
+Limits: Files limit set to 10000.
+Limits: MaxEmbeddedPE limit set to 10485760 bytes.
+Limits: MaxHTMLNormalize limit set to 10485760 bytes.
+Limits: MaxHTMLNoTags limit set to 2097152 bytes.
+Limits: MaxScriptNormalize limit set to 5242880 bytes.
+Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Limits: MaxPartitions limit set to 50.
+Limits: MaxIconsPE limit set to 100.
+Archive support enabled.
+Algorithmic detection enabled.
+Portable Executable support enabled.
+ELF support enabled.
+Mail files support enabled.
+OLE2 support enabled.
+PDF support enabled.
+SWF support enabled.
+HTML support enabled.
+Self checking every 600 seconds.
+No stats for Database check - forcing reload
+Reading databases from C:\Netsky Antivirus\bin\Debug\engine\db
+Database correctly reloaded (8386611 signatures)
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200820073148_1c7be4b02dcd4b3f8c3a472ee92e1238.trn: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200812053939_e1c5da72190c474684e8b71bf9b42368.trn: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200816072828_159300b6e26a450281c12e7e8b1814a9.trn: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200815022942_972419812bbc44a797fec1c44cdfe5ef.trn: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200816073126_04f3a7525f83410ea7b4d7512db127cb.trn: Can't open file or directory ERROR
+C:\ProgramData\Bitdefender\Desktop\EnginesTemp\tmp000000ea\tmp0001dcb8: Can't open file or directory ERROR
+C:\ProgramData\Bitdefender\Desktop\EnginesTemp\tmp000000ea\tmp0001dcb9: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200820073440_823782c88ac84380aef04c6b69e9920a.trn: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Temp\cvrk5t5l.2md: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\ProgramData\USOPrivate\UpdateStore\store.db-journal
+WARNING: lstat() failed on: \\?\C:\ProgramData\USOPrivate\UpdateStore\store.db-journal
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200820073615_fca3b44d8cf94eeb81919142287937d2.tmp: Can't open file or directory ERROR
+C:\Windows\Prefetch\Layout.ini: Can't open file or directory ERROR
+C:\Windows\SoftwareDistribution\DataStore\Logs\tmp.edb: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200815022942_4f2c633649a341678c38e052bdb35dd2.trn: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200816072828_c41a0b48374f416f8f011aa313ec8422.trn: Can't open file or directory ERROR
+C:\Windows\Temp\APPX.29g8fyh3xmltg6yk_33h77n9d.tmp: Can't open file or directory ERROR
+C:\Windows\Temp\APPX.q14kh4zulydzlt8pyj9vuxjn.tmp: Can't open file or directory ERROR
+C:\Windows\Temp\APPX.n0ggeyrkzk5558a6b1czopb2c.tmp: Can't open file or directory ERROR
+C:\Windows\Temp\APPX.td9zpg4pf9gltkoihthhw6fb.tmp: Can't open file or directory ERROR
+C:\Windows\Temp\APPX.cppuo_9b3b4zas22mk9okzm4g.tmp: Can't open file or directory ERROR
+C:\Windows\Temp\APPX.6em32epcvog2ywsaqppg4eunh.tmp: Can't open file or directory ERROR
+C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x86__8wekyb3d8bbwe\AppxBlockMap.xml: Can't open file or directory ERROR
+C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x86__8wekyb3d8bbwe\AppxManifest.xml: Can't open file or directory ERROR
+C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x86__8wekyb3d8bbwe\AppxSignature.p7x: Can't open file or directory ERROR
+C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x86__8wekyb3d8bbwe\Microsoft.UI.Xaml.dll: Can't open file or directory ERROR
+C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x86__8wekyb3d8bbwe\Microsoft.UI.Xaml.winmd: Can't open file or directory ERROR
+C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x86__8wekyb3d8bbwe\resources.pri: Can't open file or directory ERROR
+C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x86__8wekyb3d8bbwe\AppxMetadata\CodeIntegrity.cat: Can't open file or directory ERROR
+C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x64__8wekyb3d8bbwe\AppxBlockMap.xml: Can't open file or directory ERROR
+C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x64__8wekyb3d8bbwe\AppxManifest.xml: Can't open file or directory ERROR
+C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x64__8wekyb3d8bbwe\AppxSignature.p7x: Can't open file or directory ERROR
+C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.4_2.42007.9001.0_x64__8wekyb3d8bbwe\AppxMetadata\CodeIntegrity.cat: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\Users\PC\AppData\Local\Microsoft\VSApplicationInsights\vstelAIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\20200820073918_e075d53126b5463088881883ad141263.tmp
+SelfCheck: Database status OK.
+WARNING: lstat() failed on: \\?\C:\System Volume Information\SPP\SppGroupCache\Temp_{A902B6D7-3714-4383-BC34-57A033CDDFEE}_DriverPackageInfo
+C:\System Volume Information\SPP\SppCbsHiveStore\{cd42efe1-f6f1-427c-b004-033192c625a4}{6DCF54A0-87F9-4081-AFED-6414CA11A380}: Can't open file or directory ERROR
+C:\System Volume Information\SPP\SppCbsHiveStore\{cd42efe1-f6f1-427c-b004-033192c625a4}{0879289B-C2E5-486F-A16F-8023A83A36BD}: Can't open file or directory ERROR
+C:\System Volume Information\SPP\SppCbsHiveStore\{cd42efe1-f6f1-427c-b004-033192c625a4}{BB24F3BB-6CF1-4D75-8FD5-DD5835AE07AF}: Can't open file or directory ERROR
+C:\System Volume Information\SPP\SppCbsHiveStore\{cd42efe1-f6f1-427c-b004-033192c625a4}{A7471347-DC6E-4AF2-BC45-CC4256299BC3}: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\System Volume Information\SPP\SppGroupCache\Temp_{A902B6D7-3714-4383-BC34-57A033CDDFEE}_WindowsUpdateInfo
+C:\Users\PC\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\LocalState\HxCommAlwaysOnLog_Old.etl: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\TargetedContentCache\v3\314559\46bd9dde7e2b4222b5b95582b329673a_2.~tmp: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\Users\PC\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\TargetedContentCache\v3\314559\46bd9dde7e2b4222b5b95582b329673a_2~RF158d7a9.TMP
+C:\Users\PC\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\TargetedContentCache\v3\314559\1dbbd758d51646808480e8c306c20462_2.~tmp: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\353694\1597909374.~tmp: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\Users\PC\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\353694\1597909374~RF1590d8e.TMP
+WARNING: lstat() failed on: \\?\C:\ProgramData\USOPrivate\UpdateStore\store.db-journal
+WARNING: lstat() failed on: \\?\C:\ProgramData\USOPrivate\UpdateStore\store.db-journal
+WARNING: lstat() failed on: \\?\C:\ProgramData\USOPrivate\UpdateStore\store.db-journal
+WARNING: lstat() failed on: \\?\C:\ProgramData\USOPrivate\UpdateStore\store.db-journal
+WARNING: lstat() failed on: \\?\C:\ProgramData\USOPrivate\UpdateStore\store.db-journal
+C:\ProgramData\ExpressVPN\v4\data\4e5af07f.bin: Can't open file or directory ERROR
++++ Started at Fri Aug 21 17:22:02 2020
+clamd daemon 0.98.6 (OS: win32, ARCH: i386, CPU: i386)
+Log file size limited to 1048576 bytes.
+Reading databases from C:\Netsky Antivirus\bin\Debug\engine\db
+Not loading PUA signatures.
+Bytecode: Security mode set to "TrustSigned".
+Loaded 8386611 signatures.
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+Limits: Global size limit set to 104857600 bytes.
+Limits: File size limit set to 26214400 bytes.
+Limits: Recursion level limit set to 16.
+Limits: Files limit set to 10000.
+Limits: MaxEmbeddedPE limit set to 10485760 bytes.
+Limits: MaxHTMLNormalize limit set to 10485760 bytes.
+Limits: MaxHTMLNoTags limit set to 2097152 bytes.
+Limits: MaxScriptNormalize limit set to 5242880 bytes.
+Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Limits: MaxPartitions limit set to 50.
+Limits: MaxIconsPE limit set to 100.
+Archive support enabled.
+Algorithmic detection enabled.
+Portable Executable support enabled.
+ELF support enabled.
+Mail files support enabled.
+OLE2 support enabled.
+PDF support enabled.
+SWF support enabled.
+HTML support enabled.
+Self checking every 600 seconds.
+No stats for Database check - forcing reload
+Reading databases from C:\Netsky Antivirus\bin\Debug\engine\db
+Database correctly reloaded (8386611 signatures)
+SelfCheck: Database status OK.
+SelfCheck: Database status OK.
+SelfCheck: Database status OK.
+SelfCheck: Database status OK.
+SelfCheck: Database status OK.
++++ Started at Sat Aug 22 20:34:31 2020
+clamd daemon 0.98.6 (OS: win32, ARCH: i386, CPU: i386)
+Log file size limited to 1048576 bytes.
+Reading databases from C:\Netsky Antivirus\bin\Debug\engine\db
+Not loading PUA signatures.
+Bytecode: Security mode set to "TrustSigned".
+Loaded 8386611 signatures.
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+Limits: Global size limit set to 104857600 bytes.
+Limits: File size limit set to 26214400 bytes.
+Limits: Recursion level limit set to 16.
+Limits: Files limit set to 10000.
+Limits: MaxEmbeddedPE limit set to 10485760 bytes.
+Limits: MaxHTMLNormalize limit set to 10485760 bytes.
+Limits: MaxHTMLNoTags limit set to 2097152 bytes.
+Limits: MaxScriptNormalize limit set to 5242880 bytes.
+Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Limits: MaxPartitions limit set to 50.
+Limits: MaxIconsPE limit set to 100.
+Archive support enabled.
+Algorithmic detection enabled.
+Portable Executable support enabled.
+ELF support enabled.
+Mail files support enabled.
+OLE2 support enabled.
+PDF support enabled.
+SWF support enabled.
+HTML support enabled.
+Self checking every 600 seconds.
+WARNING: lstat() failed on: \\?\C:\Program Files\Bitdefender\Bitdefender Security\installer\versions.dat.C571843CF4C61E1AA0DD59087CB24C52.upd
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\TransportSecurity~RFf2716.TMP: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\TransportSecurity~RFf2716.TMP
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\TransportSecurity~RFf572f.TMP: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\Code Cache\wasm\index-dir\temp-index: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\Code Cache\wasm\index-dir\the-real-index~RFf7efa.TMP
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\Code Cache\js\index-dir\temp-index: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\TransportSecurity~RFfc3b4.TMP: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\TransportSecurity~RFfc3b4.TMP
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\be7d9c1e-5e71-447b-86ea-bf5590340d88.tmp: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\Network Persistent State~RF104141.TMP: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\Network Persistent State~RF104141.TMP: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\TransportSecurity~RF10d3ec.TMP: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\TransportSecurity~RF10d3ec.TMP
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\TransportSecurity~RF129310.TMP: Can't open file or directory ERROR
+C:\ProgramData\ExpressVPN\v4\data\4e5af07f.bin.cac3-9588-3034-b405: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\Preferences~RF130e99.TMP: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\TransportSecurity~RF13541e.TMP: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\TransportSecurity: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\3f05dd71-b7bc-42e9-929d-dd04f8d6d524.tmp: Can't open file or directory ERROR
+WARNING: lstat() failed on: \\?\C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\Preferences~RF135ab6.TMP
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\TransportSecurity~RF148e35.TMP: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Default\Preferences~RF149682.TMP: Can't open file or directory ERROR
+C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Local State~RF14a44d.TMP: Can't open file or directory ERROR
