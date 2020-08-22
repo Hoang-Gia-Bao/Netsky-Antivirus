@@ -47,6 +47,7 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
             this.metroTabPage2 = new MetroFramework.Controls.MetroTabPage();
+            this.metroTile16 = new MetroFramework.Controls.MetroTile();
             this.smart_Toggle = new MetroFramework.Controls.MetroToggle();
             this.metroLabel16 = new MetroFramework.Controls.MetroLabel();
             this.metroProgressSpinner1 = new MetroFramework.Controls.MetroProgressSpinner();
@@ -92,6 +93,8 @@
             this.firewallToggle = new MetroFramework.Controls.MetroToggle();
             this.metroTabPage9 = new MetroFramework.Controls.MetroTabPage();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.metroTile15 = new MetroFramework.Controls.MetroTile();
+            this.metroTile14 = new MetroFramework.Controls.MetroTile();
             this.metroTile13 = new MetroFramework.Controls.MetroTile();
             this.metroLabel24 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel22 = new MetroFramework.Controls.MetroLabel();
@@ -129,8 +132,6 @@
             this.updateToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.metroTile6 = new MetroFramework.Controls.MetroTile();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.metroTile14 = new MetroFramework.Controls.MetroTile();
-            this.metroTile15 = new MetroFramework.Controls.MetroTile();
             this.metroTabControl1.SuspendLayout();
             this.metroTabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
@@ -168,7 +169,7 @@
             this.metroTabControl1.Controls.Add(this.metroTabPage5);
             this.metroTabControl1.Location = new System.Drawing.Point(12, 77);
             this.metroTabControl1.Name = "metroTabControl1";
-            this.metroTabControl1.SelectedIndex = 3;
+            this.metroTabControl1.SelectedIndex = 1;
             this.metroTabControl1.Size = new System.Drawing.Size(615, 362);
             this.metroTabControl1.TabIndex = 0;
             this.metroTabControl1.Theme = MetroFramework.MetroThemeStyle.Dark;
@@ -206,7 +207,7 @@
             // metroLabel15
             // 
             this.metroLabel15.AutoSize = true;
-            this.metroLabel15.Location = new System.Drawing.Point(471, 71);
+            this.metroLabel15.Location = new System.Drawing.Point(462, 71);
             this.metroLabel15.Name = "metroLabel15";
             this.metroLabel15.Size = new System.Drawing.Size(113, 19);
             this.metroLabel15.TabIndex = 19;
@@ -219,7 +220,7 @@
             this.pictureBox7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
             this.pictureBox7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(170)))), ((int)(((byte)(170)))), ((int)(((byte)(170)))));
             this.pictureBox7.Image = global::AntiVirus_Project.Properties.Resources.fine;
-            this.pictureBox7.Location = new System.Drawing.Point(429, 69);
+            this.pictureBox7.Location = new System.Drawing.Point(424, 69);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(32, 28);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -356,16 +357,17 @@
             this.metroLabel1.AutoSize = true;
             this.metroLabel1.FontSize = MetroFramework.MetroLabelSize.Tall;
             this.metroLabel1.FontWeight = MetroFramework.MetroLabelWeight.Regular;
-            this.metroLabel1.Location = new System.Drawing.Point(134, 13);
+            this.metroLabel1.Location = new System.Drawing.Point(171, 11);
             this.metroLabel1.Name = "metroLabel1";
-            this.metroLabel1.Size = new System.Drawing.Size(286, 25);
+            this.metroLabel1.Size = new System.Drawing.Size(285, 25);
             this.metroLabel1.Style = MetroFramework.MetroColorStyle.Blue;
             this.metroLabel1.TabIndex = 2;
-            this.metroLabel1.Text = "Welcome to Netsky Antivirus 2015";
+            this.metroLabel1.Text = "Welcome to Netsky Antivirus 2020";
             this.metroLabel1.Theme = MetroFramework.MetroThemeStyle.Dark;
             // 
             // metroTabPage2
             // 
+            this.metroTabPage2.Controls.Add(this.metroTile16);
             this.metroTabPage2.Controls.Add(this.smart_Toggle);
             this.metroTabPage2.Controls.Add(this.metroLabel16);
             this.metroTabPage2.Controls.Add(this.metroProgressSpinner1);
@@ -394,10 +396,21 @@
             this.metroTabPage2.VerticalScrollbarHighlightOnWheel = false;
             this.metroTabPage2.VerticalScrollbarSize = 10;
             // 
+            // metroTile16
+            // 
+            this.metroTile16.ActiveControl = null;
+            this.metroTile16.Location = new System.Drawing.Point(525, 88);
+            this.metroTile16.Name = "metroTile16";
+            this.metroTile16.Size = new System.Drawing.Size(90, 32);
+            this.metroTile16.TabIndex = 18;
+            this.metroTile16.Text = "URL Scan";
+            this.metroTile16.UseSelectable = true;
+            this.metroTile16.Click += new System.EventHandler(this.MetroTile16_Click);
+            // 
             // smart_Toggle
             // 
             this.smart_Toggle.AutoSize = true;
-            this.smart_Toggle.Location = new System.Drawing.Point(433, 44);
+            this.smart_Toggle.Location = new System.Drawing.Point(372, 44);
             this.smart_Toggle.Name = "smart_Toggle";
             this.smart_Toggle.Size = new System.Drawing.Size(80, 17);
             this.smart_Toggle.TabIndex = 17;
@@ -408,7 +421,7 @@
             // metroLabel16
             // 
             this.metroLabel16.AutoSize = true;
-            this.metroLabel16.Location = new System.Drawing.Point(305, 42);
+            this.metroLabel16.Location = new System.Drawing.Point(237, 42);
             this.metroLabel16.Name = "metroLabel16";
             this.metroLabel16.Size = new System.Drawing.Size(129, 19);
             this.metroLabel16.TabIndex = 16;
@@ -479,7 +492,7 @@
             // metroTile3
             // 
             this.metroTile3.ActiveControl = null;
-            this.metroTile3.Location = new System.Drawing.Point(497, 88);
+            this.metroTile3.Location = new System.Drawing.Point(429, 88);
             this.metroTile3.Name = "metroTile3";
             this.metroTile3.Size = new System.Drawing.Size(90, 32);
             this.metroTile3.TabIndex = 9;
@@ -490,7 +503,7 @@
             // metroTile2
             // 
             this.metroTile2.ActiveControl = null;
-            this.metroTile2.Location = new System.Drawing.Point(401, 88);
+            this.metroTile2.Location = new System.Drawing.Point(333, 88);
             this.metroTile2.Name = "metroTile2";
             this.metroTile2.Size = new System.Drawing.Size(90, 32);
             this.metroTile2.TabIndex = 8;
@@ -501,7 +514,7 @@
             // metroTile1
             // 
             this.metroTile1.ActiveControl = null;
-            this.metroTile1.Location = new System.Drawing.Point(305, 88);
+            this.metroTile1.Location = new System.Drawing.Point(237, 88);
             this.metroTile1.Name = "metroTile1";
             this.metroTile1.Size = new System.Drawing.Size(90, 32);
             this.metroTile1.TabIndex = 7;
@@ -592,6 +605,7 @@
             this.objectListView1.EmptyListMsg = "PC is clean, no infection to show";
             this.objectListView1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(170)))), ((int)(((byte)(170)))), ((int)(((byte)(170)))));
             this.objectListView1.FullRowSelect = true;
+            this.objectListView1.HideSelection = false;
             this.objectListView1.HighlightForegroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.objectListView1.Location = new System.Drawing.Point(9, 10);
             this.objectListView1.MultiSelect = false;
@@ -792,6 +806,7 @@
             this.objectListView2.EmptyListMsg = "No history";
             this.objectListView2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(170)))), ((int)(((byte)(170)))), ((int)(((byte)(170)))));
             this.objectListView2.FullRowSelect = true;
+            this.objectListView2.HideSelection = false;
             this.objectListView2.HighlightForegroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.objectListView2.Location = new System.Drawing.Point(3, 31);
             this.objectListView2.MultiSelect = false;
@@ -915,7 +930,7 @@
             this.metroTabPage9.Name = "metroTabPage9";
             this.metroTabPage9.Size = new System.Drawing.Size(577, 178);
             this.metroTabPage9.TabIndex = 3;
-            this.metroTabPage9.Text = "  Misc";
+            this.metroTabPage9.Text = "Other feature";
             this.metroTabPage9.VerticalScrollbarBarColor = true;
             this.metroTabPage9.VerticalScrollbarHighlightOnWheel = false;
             this.metroTabPage9.VerticalScrollbarSize = 10;
@@ -923,16 +938,40 @@
             // groupBox2
             // 
             this.metroStyleExtender1.SetApplyMetroTheme(this.groupBox2, true);
+            this.groupBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
             this.groupBox2.Controls.Add(this.metroTile15);
             this.groupBox2.Controls.Add(this.metroTile14);
             this.groupBox2.Controls.Add(this.metroTile13);
             this.groupBox2.Controls.Add(this.metroLabel24);
+            this.groupBox2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(170)))), ((int)(((byte)(170)))), ((int)(((byte)(170)))));
             this.groupBox2.Location = new System.Drawing.Point(6, 83);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(568, 92);
             this.groupBox2.TabIndex = 15;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Folder Locker";
+            // 
+            // metroTile15
+            // 
+            this.metroTile15.ActiveControl = null;
+            this.metroTile15.Location = new System.Drawing.Point(343, 58);
+            this.metroTile15.Name = "metroTile15";
+            this.metroTile15.Size = new System.Drawing.Size(104, 23);
+            this.metroTile15.TabIndex = 19;
+            this.metroTile15.Text = "Lock vault";
+            this.metroTile15.UseSelectable = true;
+            this.metroTile15.Click += new System.EventHandler(this.metroTile15_Click);
+            // 
+            // metroTile14
+            // 
+            this.metroTile14.ActiveControl = null;
+            this.metroTile14.Location = new System.Drawing.Point(453, 58);
+            this.metroTile14.Name = "metroTile14";
+            this.metroTile14.Size = new System.Drawing.Size(104, 23);
+            this.metroTile14.TabIndex = 18;
+            this.metroTile14.Text = "Remove vault";
+            this.metroTile14.UseSelectable = true;
+            this.metroTile14.Click += new System.EventHandler(this.metroTile14_Click);
             // 
             // metroTile13
             // 
@@ -1194,9 +1233,10 @@
             this.metroLabel7.AutoSize = true;
             this.metroLabel7.Location = new System.Drawing.Point(2, 15);
             this.metroLabel7.Name = "metroLabel7";
-            this.metroLabel7.Size = new System.Drawing.Size(606, 285);
+            this.metroLabel7.Size = new System.Drawing.Size(270, 114);
             this.metroLabel7.TabIndex = 2;
-            this.metroLabel7.Text = resources.GetString("metroLabel7.Text");
+            this.metroLabel7.Text = "Netsky Antivirus 2020, version 1.0\r\n\r\nDeveloped using C#, .NET 4.0\r\nUses C compil" +
+    "ed engines for scanning\r\n\r\nDesigned and Developed by: Hoàng Gia Bảo";
             this.metroLabel7.Theme = MetroFramework.MetroThemeStyle.Dark;
             // 
             // metroStyleExtender1
@@ -1279,28 +1319,6 @@
             // 
             this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
-            // metroTile14
-            // 
-            this.metroTile14.ActiveControl = null;
-            this.metroTile14.Location = new System.Drawing.Point(453, 58);
-            this.metroTile14.Name = "metroTile14";
-            this.metroTile14.Size = new System.Drawing.Size(104, 23);
-            this.metroTile14.TabIndex = 18;
-            this.metroTile14.Text = "Remove vault";
-            this.metroTile14.UseSelectable = true;
-            this.metroTile14.Click += new System.EventHandler(this.metroTile14_Click);
-            // 
-            // metroTile15
-            // 
-            this.metroTile15.ActiveControl = null;
-            this.metroTile15.Location = new System.Drawing.Point(343, 58);
-            this.metroTile15.Name = "metroTile15";
-            this.metroTile15.Size = new System.Drawing.Size(104, 23);
-            this.metroTile15.TabIndex = 19;
-            this.metroTile15.Text = "Lock vault";
-            this.metroTile15.UseSelectable = true;
-            this.metroTile15.Click += new System.EventHandler(this.metroTile15_Click);
             // 
             // Form1
             // 
@@ -1463,6 +1481,7 @@
         private MetroFramework.Controls.MetroTile metroTile13;
         private MetroFramework.Controls.MetroTile metroTile14;
         private MetroFramework.Controls.MetroTile metroTile15;
+        private MetroFramework.Controls.MetroTile metroTile16;
     }
 }
 

@@ -120,32 +120,12 @@
   <metadata name="metroStyleExtender1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <metadata name="metroStyleExtender1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
   <metadata name="metroContextMenu1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>172, 56</value>
   </metadata>
   <metadata name="metroContextMenu2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>424, 56</value>
   </metadata>
-  <data name="metroLabel7.Text" xml:space="preserve">
-    <value>Netsky Antivirus 2015, version 1.0
-
-Developed using C#, .NET 4.0
-Uses C compiled engines for scanning
-
-Designed and Developed by:
-Romil Kr. Gupta, Shantanu Choudhary, Sonam Jindal, Puja Kumari,Shalini Arya, Rajnish Kumar, Shailza 
-Choudhary, Sarthak Jain, Mohitanshu Sharma, Tejashwi Kalp Taru, Ntambala Manda, Somya Shrivastav
-Suraiya Jabeen and Rajat Singh
-
-This program is developed for the Summer project in Sharda University, School of Engineering and 
-Technology (India)
-
-This system is just a prototype of actual antivirus and currently it's in testing. Kindly don't depend on this
-system for your PC security.</value>
-  </data>
   <metadata name="metroStyleManager1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>182, 17</value>
   </metadata>

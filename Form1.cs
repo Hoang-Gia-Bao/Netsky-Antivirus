@@ -1195,6 +1195,9 @@ namespace AntiVirus_Project
             locker.LockFolder(this);
         }
 
-
+        private void MetroTile16_Click(object sender, EventArgs e)
+        {
+            Process.Start ("Virustotal.exe");
+        }
     } //end of class
 } //end of namespace
