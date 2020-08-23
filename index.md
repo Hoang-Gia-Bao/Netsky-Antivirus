@@ -1,2 +1,0 @@
-
-Antivirus from Việt Nam
