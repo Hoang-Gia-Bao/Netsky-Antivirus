@@ -1,0 +1,13 @@
+C:\Netsky Antivirus\bin\Debug\process-killer.dll
+C:\Netsky Antivirus\bin\Debug\NetSky Antivirus.exe.config
+C:\Netsky Antivirus\bin\Debug\NetSky Antivirus.exe
+C:\Netsky Antivirus\bin\Debug\NetSky Antivirus.pdb
+C:\Netsky Antivirus\obj\x86\Debug\Netsky Antivirus.csprojAssemblyReference.cache
+C:\Netsky Antivirus\obj\x86\Debug\AntiVirus_Project.Form1.resources
+C:\Netsky Antivirus\obj\x86\Debug\AntiVirus_Project.Properties.Resources.resources
+C:\Netsky Antivirus\obj\x86\Debug\AntiVirus_Project.VaultPassword.resources
+C:\Netsky Antivirus\obj\x86\Debug\Netsky Antivirus.csproj.GenerateResource.cache
+C:\Netsky Antivirus\obj\x86\Debug\Netsky Antivirus.csproj.CoreCompileInputs.cache
+C:\Netsky Antivirus\obj\x86\Debug\Netsky Antivirus.csproj.CopyComplete
+C:\Netsky Antivirus\obj\x86\Debug\NetSky Antivirus.exe
+C:\Netsky Antivirus\obj\x86\Debug\NetSky Antivirus.pdb
